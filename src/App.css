@@ -1,0 +1,11 @@
+*{
+  
+  margin: 0;
+  padding: 0;
+}
+
+.logo_style{
+  width: 2rem;
+ 
+  border-radius: 50%;
+}
