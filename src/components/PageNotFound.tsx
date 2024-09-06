@@ -16,7 +16,7 @@ const navigate= useNavigate()
       <img src="https://th.bing.com/th/id/OIP.Bd1Dzqy9Z6Bluns0-hzVMwHaHa?w=800&h=800&rs=1&pid=ImgDetMain" alt="Not Found" style={{ borderRadius: '16px', marginBottom: 2, width:'40%' }} />
       <ErrorOutline sx={{ fontSize: '8rem', color: 'error.main', marginBottom: 2 }} />
       <Typography level='h4'  fontWeight="bold" color="primary">
-        Page Not Found
+        Page Not Found .
       </Typography>
       <Typography level='body-lg' color="primary">
         The page you are looking for could not be found.
